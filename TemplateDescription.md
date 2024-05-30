@@ -19,7 +19,7 @@ To use this template, follow these instructions:
 
 1. Click the green "Use this template" button when [viewing this repository on GitHub](https://github.com/hylandtechoutreach/lesson-plan-template/)
 1. Fill out a Repository name and Description
-1. Click the green "Create repository from template" button
+1. Click the green "Create repository" button
 1. In **Settings**, in the **Code and automation section**, under **Actions -> General**, under **Workflow permissions**, select the **Read and write permissions** option 
 1. On the new repository, wait for the GitHub action to complete
     - This action will create the `gh-pages` branch
