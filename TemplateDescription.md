@@ -17,7 +17,7 @@ Here is a breakdown of the files in this repository:
 ## Getting Started
 To use this template, follow these instructions:
 
-1. Click the green "Use this template" button when viewing this repository on GitHub
+1. Click the green "Use this template" button when [viewing this repository on GitHub](https://github.com/hylandtechoutreach/lesson-plan-template/)
 1. Fill out a Repository name and Description
 1. Click the green "Create repository from template" button
 1. In **Settings**, in the **Code and automation section**, under **Actions -> General**, under **Workflow permissions**, select the **Read and write permissions** option 
