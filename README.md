@@ -1,2 +1,2 @@
-# lesson-plan-template
-A repository with the basic file structure for a single lesson plan. Contains the setup to build a GitBook from the repository using GitHub Actions.
+# Lesson Plan Template
+This file serves as the primary lesson plan for the repository.
